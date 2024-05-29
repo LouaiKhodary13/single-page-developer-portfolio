@@ -3,6 +3,7 @@
 This project is a single-page developer portfolio created as part of a Frontend Mentor challenge. It showcases the skills, projects, and contact information of the developer in a visually appealing and user-friendly manner.
 
 ## Table of Contents
+
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
