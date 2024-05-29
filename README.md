@@ -9,7 +9,7 @@ This project is a single-page developer portfolio created as part of a Frontend 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Live Demo](#live-demo)
+- [Live Demo](https://single-page-developer-portfolio-tan.vercel.app/)
 - [Github Repo](https://github.com/LouaiKhodary13/single-page-developer-portfolio)
 - [Credits](#credits)
 
@@ -43,7 +43,7 @@ The single-page developer portfolio provides an introduction to the developer, h
 
 ## Live Demo
 
-[Live Demo](#) - Add link to live demo here.
+[Live Demo](https://single-page-developer-portfolio-tan.vercel.app/)
 
 ## Credits
 
