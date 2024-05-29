@@ -102,6 +102,11 @@ footer {
   margin: 0 auto;
   margin-top: 1.5rem;
 }
+.ring-footer {
+  position: absolute;
+  bottom: 30%;
+  left: -20%;
+}
 @media screen and (max-width: 768px) {
   .footer-wrapper {
     flex-direction: column;
@@ -117,5 +122,10 @@ footer {
     align-items: center;
     justify-content: center;
     gap: 1.5rem;
+    min-height: 200px;
+  }
+  .ring-footer {
+    bottom: 20%;
+    left: -50%;
   }
 }

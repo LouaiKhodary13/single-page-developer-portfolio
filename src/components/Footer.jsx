@@ -3,6 +3,7 @@ import github from '../assets/images/icon-github.svg';
 import frontendmentor from '../assets/images/icon-frontend-mentor.svg';
 import linkedin from '../assets/images/icon-linkedin.svg';
 import twitter from '../assets/images/icon-twitter.svg';
+import ringfooter from '../assets/images/pattern-rings.svg';
 const Footer = () => {
   return (
     <>
@@ -83,6 +84,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
+        <img src={ringfooter} alt={ringfooter} className='ring-footer' />
       </footer>
     </>
   );
