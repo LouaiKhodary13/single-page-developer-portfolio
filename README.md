@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Single-page Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a single-page developer portfolio created as part of a Frontend Mentor challenge. It showcases the skills, projects, and contact information of the developer in a visually appealing and user-friendly manner.
 
-## Available Scripts
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Live Demo](#live-demo)
+- [Github Repo](https://github.com/LouaiKhodary13/single-page-developer-portfolio)
+- [Credits](#credits)
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+The single-page developer portfolio provides an introduction to the developer, highlighting their name, skills, projects, and contact information. It is designed to be responsive, ensuring optimal viewing experience across various devices and screen sizes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Hero Section:** Introduces the developer with a background image and brief description.
+- **Skills Section:** Displays the developer's skills and years of experience in a visually appealing grid layout.
+- **Projects Section:** Showcases a selection of projects with images, descriptions, and links to view code and project.
+- **Header and Footer:** Consistent header and footer navigation for easy access to different sections and contact information.
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React:** The project is built using React, a JavaScript library for building user interfaces.
+- **CSS:** Styling is done using CSS to create visually appealing layouts and designs.
+- **Frontend Mentor:** The challenge is sourced from Frontend Mentor, a platform for aspiring frontend developers to practice their skills and build real-world projects.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository: `git clone https://github.com/LouaiKhodary13/single-page-developer-portfolio
+2. Navigate to the project directory`
+3. Install dependencies: `npm install`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Start the development server: `npm start`
+2. Open your browser and navigate to `http://localhost:3000` to view the portfolio.
 
-### `npm run eject`
+## Live Demo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[Live Demo](#) - Add link to live demo here.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Frontend Mentor:** The challenge and design for this portfolio were provided by Frontend Mentor.
+- **Developer:** [Louai Khodary]
