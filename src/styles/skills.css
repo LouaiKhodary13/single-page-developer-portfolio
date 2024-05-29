@@ -16,6 +16,7 @@
   grid-template-rows: repeat(2, auto);
   gap: 2rem;
   padding: 2rem;
+  position: relative;
 }
 .skill-info {
   display: flex;
@@ -31,15 +32,14 @@
 .skill-date {
   color: var(--p-text-color);
 }
-.ring-skill-wrapper {
-  position: relative;
-  width: 100%;
-  min-height: 100px;
-}
 .ring-skill {
   position: absolute;
   left: 90%;
-  bottom: 150%;
+  bottom: 0%;
+  display: block;
+}
+.underline-end-skill {
+  display: none;
 }
 @media screen and (max-width: 767px) {
   .skill-wrapper {
@@ -54,5 +54,16 @@
   }
   .skill-info {
     align-items: center;
+  }
+  .ring-skill {
+    left: 45%;
+    bottom: -7%;
+  }
+  .underline-end-skill {
+    display: block;
+    border-bottom: 1px solid #fff;
+    max-width: 1200px;
+    width: 90vw;
+    margin: 0 auto;
   }
 }

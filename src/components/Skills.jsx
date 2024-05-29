@@ -44,10 +44,10 @@ const Skills = () => {
             </div>
           </div>
         </div>
-      </div>
-      <div className='ring-skill-wrapper'>
+
         <img src={ring} alt={ring} className='ring-skill' />
       </div>
+      <div class='underline-end-skill'></div>
     </>
   );
 };

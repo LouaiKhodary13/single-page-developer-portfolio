@@ -1,8 +1,9 @@
 :root {
   --bg-body: black;
   --white: #fff;
-  --p-text-color: #888888;
+  --p-text-color: #898888;
   --border-bottom: #44bc89;
+  --footer-bg: #242424;
 }
 @font-face {
   font-family: 'Space Grotesk Bold';
@@ -10,28 +11,23 @@
   font-weight: bold;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Space Grotesk Medium';
   src: url('./assets/fonts/static/SpaceGrotesk-Medium.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: 'Space Grotesk Medium', sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   background-color: var(--bg-body);
   color: var(--white);
-  overflow-y: scroll;
-  overflow-x: hidden;
 }
 img,
 picture,
@@ -56,9 +52,17 @@ h5,
 h6 {
   overflow-wrap: break-word;
 }
-
 ul {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+a {
+  text-decoration: none;
+}
+button {
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
 }

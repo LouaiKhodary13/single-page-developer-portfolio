@@ -75,9 +75,16 @@ section {
   }
   .hero-img {
     position: relative;
-    width: 90vw;
-    left: 0;
+    width: 60vw;
+    left: 20px;
     height: 400px;
+  }
+  .hero-ring {
+    position: absolute;
+    left: -44%;
+    bottom: 49%;
+    z-index: 2;
+    display: block;
   }
   .hero-intro-heading {
     letter-spacing: 0px;
